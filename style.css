@@ -18,6 +18,7 @@
 }
 
 .jumbotron {
+  background-color: beige;
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
