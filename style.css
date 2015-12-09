@@ -8,7 +8,7 @@
 
 .nav p {
   color: #5a5a5a;
-  font-size: 20px;
+  font-size: 14px;
   font-weight: bold;
   text-transform: uppercase;
 }
@@ -18,7 +18,6 @@
 }
 
 .jumbotron {
-  background-color: black;
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
